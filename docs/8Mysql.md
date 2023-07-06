@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 收藏夹
-nav_order: 21
-permalink: /docs/mark
+title: Mysql
+nav_order: 8
+has_children: true
+permalink: /docs/mysql
 ---
 
-# 产品
-
+# Mysql
 Just the Docs has some specific configuration parameters
 
 

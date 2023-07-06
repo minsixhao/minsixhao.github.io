@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 经济
-nav_order: 12
+title: Redis
+nav_order: 9
 has_children: true
-permalink: /docs/economics
+permalink: /docs/Redis
 ---
 
-# 经济
+# Redis
 
 Just the Docs has some specific configuration parameters
 

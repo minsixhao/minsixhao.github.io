@@ -1,11 +1,12 @@
 ---
 layout: default
-title: 思考
-nav_order: 23
-permalink: /docs/think
+title: Goland
+nav_order: 4
+has_children: true
+permalink: /docs/Goland
 ---
 
-# 思考
+# Goland
 
 Just the Docs has some specific configuration parameters
 

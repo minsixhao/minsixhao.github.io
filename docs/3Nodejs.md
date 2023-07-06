@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Redis
-nav_order: 5
-permalink: /docs/Redis
+title: Nodejs
+nav_order: 2
+has_children: true
+permalink: /docs/nodejs
 ---
 
-# Redis
+# Nodejs
 
 Just the Docs has some specific configuration parameters
 
