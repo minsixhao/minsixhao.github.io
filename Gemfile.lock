@@ -75,6 +75,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bundler (= 2.3.26)
   jekyll (~> 4.3.2)
   just-the-docs (= 0.5.3)
 
