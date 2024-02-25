@@ -169,7 +169,7 @@ best_of关键参数在n个Completion后并从中选择最好的结果返回。n 
 ### **6. top_p 参数**：
 核采样参数，默认值为 1， 可选择范围是 (0,1] 之间。需 top_p 是 temperature 采样的替代方案，也被称为nucleus采样，一般只修改其中的一个。
 
-### **7. presence_penalty 和 frequency_penalty 参数**：
+### **7.    presence_penalty 和 frequency_penalty 参数**：
 这两个参数的范围都在 [-2,2] 之间。值大于 0 表示文本生成将尽量减少出现重复的 token。
 - presence_penalty 是通过前文 token 是否出现了来控制重复 token 的出现。
 - frequency_penalty 是通过前文 token 出现的频率来控制重复 token 的出现。

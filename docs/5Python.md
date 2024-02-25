@@ -8,6 +8,4 @@ permalink: /docs/Python
 
 # Python
 
-Just the Docs has some specific configuration parameters
-
-
+Python和Django的进阶到实战文档：[https://pythondjango.cn/](https://pythondjango.cn/)

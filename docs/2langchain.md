@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Nodejs
-nav_order: 3
+title: Langchain
+nav_order: 2
 has_children: true
-permalink: /docs/nodejs
+permalink: /docs/langchain
 ---
 
-# Nodejs
+# Langchain
 
 Just the Docs has some specific configuration parameters
 
